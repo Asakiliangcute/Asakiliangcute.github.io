@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.lovezhao.xyz/posts/0.html</loc>
+    <loc>https://www.lovezhao.xyz/posts/fb35e44.html</loc>
     
     <lastmod>2023-06-30</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://www.lovezhao.xyz/categories/index.html</loc>
+    <loc>https://www.lovezhao.xyz/tags/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://www.lovezhao.xyz/box/nav/index.html</loc>
+    <loc>https://www.lovezhao.xyz/categories/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -38,24 +38,6 @@
   </url>
   
   <url>
-    <loc>https://www.lovezhao.xyz/tags/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.lovezhao.xyz/life/games/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.lovezhao.xyz/box/gallery/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -65,34 +47,16 @@
   </url>
   
   <url>
-    <loc>https://www.lovezhao.xyz/personal/bb/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.lovezhao.xyz/life/movies/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.lovezhao.xyz/life/music/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.lovezhao.xyz/personal/love/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.lovezhao.xyz/box/nav/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -119,7 +83,25 @@
   </url>
   
   <url>
-    <loc>https://www.lovezhao.xyz/site/time/index.html</loc>
+    <loc>https://www.lovezhao.xyz/personal/bb/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.lovezhao.xyz/life/music/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.lovezhao.xyz/life/games/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -129,6 +111,24 @@
   
   <url>
     <loc>https://www.lovezhao.xyz/social/fcircle/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.lovezhao.xyz/life/movies/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.lovezhao.xyz/site/time/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
